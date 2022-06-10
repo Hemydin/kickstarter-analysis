@@ -9,7 +9,8 @@ The purpose of this analysis is to understand how different theater campaigns pe
 ### Analysis of Outcomes Based on Launch Data 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/100629325/172766605-3ca4c988-f672-4ef4-9708-1a081100ef04.png)
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/100629325/172766755-321dbda4-f274-4b25-9300-24d1acbd6f45.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/100629325/172967096-c8d02caf-e777-4c51-a64b-0b858bc19d84.png)
+
 ### Challenges and Difficulties Encountered
 For the assignments, the Theater Outcomes by Launch Date and the Outcomes based on Goals, I pulled the needed information following the provided instructions and used the visuals for the conclusions. My challenge was to think of new ways to reveal insights about what factors potentially contribute to success.
 ## Results
