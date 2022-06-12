@@ -29,6 +29,8 @@ What can you conclude about the Outcomes based on Goals?
 
 What are some limitations of this dataset?
 
+- This dataset is limited to only the quantitative information about the theater campaigns, such as goals, pledges, backers, etc. We were not given other elements that contributed to the campaign outcomes, such as the popularity of performers, and performance rating, to name a few.
+
 What are some other possible tables and/or graphs that we could create?
 
 ![Outcomes Based on Time Elapsed](https://user-images.githubusercontent.com/100629325/172771280-22c30bad-7313-4b1a-ac9b-b39e454c771f.png)
