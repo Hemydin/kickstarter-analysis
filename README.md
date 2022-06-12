@@ -15,23 +15,24 @@ This analysis aims to understand how different theater campaigns performed in re
 For the assignments, the Theater Outcomes by Launch Date and the Outcomes based on Goals, I pulled the needed information following the provided instructions and used the visuals for the conclusions. My challenge was to think of new ways to reveal insights about what factors potentially contribute to success.
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date? 
+What are two conclusions you can draw about the Outcomes based on Launch Date? 
 
 ![Theather Outcomes vs Launch Pivot](https://user-images.githubusercontent.com/100629325/173246307-45968d82-cef3-42b1-9e33-1a67eac3b553.png)
-  - While looking at the theater data, I have found that the theater campaigns were overall successful. There were 839 successful campaigns which weight about 61% of the total number of theater campaigns 1,369.
-  - A spike of successful campaigns began in May, but it keeps dropping by the end of the year. May and June seem good months to launch a campaign, and December tends to be the least successful month for the theater campaigns. Also, we can see that May, June, July, August, and October had roughly the same number of failed campaigns launched.
+
+ - While looking at the theater data, I have found that the theater campaigns were overall successful. There were 839 successful campaigns which weight about 61% of the total number of theater campaigns 1,369.
+ - A spike of successful campaigns began in May, but it keeps dropping by the end of the year. May and June seem good months to launch a campaign, and December tends to be the least successful month for the theater campaigns. Also, we can see that May, June, July, August, and October had roughly the same number of failed campaigns launched.
 
 
-- What can you conclude about the Outcomes based on Goals?
+What can you conclude about the Outcomes based on Goals?
 
-  - It appears that play campaigns had been the most successful when the fundraising goal amounts were less than $5,000 and had the highest failed rates when the goals were set high, from $45,000 to More.
+- It appears that play campaigns had been the most successful when the fundraising goal amounts were less than $5,000 and had the highest failed rates when the goals were set high, from $45,000 to More.
 
-- What are some limitations of this dataset?
+What are some limitations of this dataset?
 
-- What are some other possible tables and/or graphs that we could create?
+What are some other possible tables and/or graphs that we could create?
 
 ![Outcomes Based on Time Elapsed](https://user-images.githubusercontent.com/100629325/172771280-22c30bad-7313-4b1a-ac9b-b39e454c771f.png)
 
 ![Distribution of time for successful campaigns to reach goal](https://user-images.githubusercontent.com/100629325/172769987-bb1ed343-2218-4b22-b523-a45c825acfd1.png)
 
-  Does the length of the campaign make a difference in determining its success? I calculated the time elapsed to answer this question using the launch and deadline dates. I categorized the entire subset of successful campaigns based on the days each project lasted. Out of the 2,185 projects, 47.6% of successful campaigns had a time elapsed value of 30 to 35 days. The mean number of days for a project to become successful is 33 days, while the median is 30 days. This shows that the distribution is right-skewered, meaning that there are more data points on the left side than on the right. In other words, campaigns tend to reach their goals sooner rather than later.
+- Does the length of the campaign make a difference in determining its success? I calculated the time elapsed to answer this question using the launch and deadline dates. I categorized the entire subset of successful campaigns based on the days each project lasted. Out of the 2,185 projects, 47.6% of successful campaigns had a time elapsed value of 30 to 35 days. The mean number of days for a project to become successful is 33 days, while the median is 30 days. This shows that the distribution is right-skewered, meaning that there are more data points on the left side than on the right. In other words, campaigns tend to reach their goals sooner rather than later.
