@@ -12,7 +12,8 @@ This analysis aims to understand how different theater campaigns performed in re
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/100629325/172967096-c8d02caf-e777-4c51-a64b-0b858bc19d84.png)
 
 ### Challenges and Difficulties Encountered
-For the assignments, the Theater Outcomes by Launch Date and the Outcomes based on Goals, I pulled the needed information following the provided instructions and used the visuals for the conclusions. My challenge was to think of new ways to reveal insights about what factors potentially contribute to success.
+In my analysis of the Theater Outcomes by Launch Date, I prepared the visual using the pivot line chart, which helped uncover the trends of campaign outcomes regarding their launch dates. For the outcomes based on the goals assignment, I pulled the needed information using the Excel COUNTIFS functions and prepared the visual for my conclusion. My challenge was to think of new ways to reveal insights about what factors potentially contribute to success.
+
 ## Results
 
 What are two conclusions you can draw about the Outcomes based on Launch Date? 
